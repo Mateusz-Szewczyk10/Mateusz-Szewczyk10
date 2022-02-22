@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mateusz-Szewczyk10
-- 👀 I’m interested in data science, ml, image detection, big data.
-- 🌱 I’m currently learning image detection.
+- 👀 I’m interested in data science, machine learning, image detection, big data.
+- 🌱 I’m currently learning Git and working on a Malware Detection Project.
 - 💞️ I’m looking to collaborate on any project related to data science.
-- 📫 How to reach me via private message.
+- 📫 How to reach me: via private message.
 
 <!---
 Mateusz-Szewczyk10/Mateusz-Szewczyk10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
